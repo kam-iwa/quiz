@@ -1,0 +1,197 @@
+OPEN
+Ten quiz ma na celu sprawdziæ twoj¹ znajomoœæ stolic pañstw œwiata.;W przypadku, gdy kraj ma stolicê oficjaln¹ i siedzibê w³adz, to odpowiedzi¹ jest stolica oficjalna.
+Jakie miasto jest stolic¹ Afganistanu?;Kabul;1;60
+Jakie miasto jest stolic¹ Albanii?;Tirana;1;60
+Jakie miasto jest stolic¹ Algierii?;Algier;1;60
+Jakie miasto jest stolic¹ Andory?;Andora;1;60
+Jakie miasto jest stolic¹ Angoli?;Luanda;1;60
+Jakie miasto jest stolic¹ Antigui i Barbudy?;Saint John's;1;60
+Jakie miasto jest stolic¹ Arabii Saudyjskiej?;Rijad;1;60
+Jakie miasto jest stolic¹ Argentyny?;Buenos Aires;1;60
+Jakie miasto jest stolic¹ Armenii?;Erywañ;1;60
+Jakie miasto jest stolic¹ Australii?;Canberra;1;60
+Jakie miasto jest stolic¹ Austrii?;Wiedeñ;1;60
+Jakie miasto jest stolic¹ Azerbejd¿anu?;Baku;1;60
+Jakie miasto jest stolic¹ Bahamów?;Nassau;1;60
+Jakie miasto jest stolic¹ Bahrajnu?;Manama;1;60
+Jakie miasto jest stolic¹ Bangladeszu?;Dhaka;1;60
+Jakie miasto jest stolic¹ Barbadosu?;Bridgetown;1;60
+Jakie miasto jest stolic¹ Belgii?;Bruksela;1;60
+Jakie miasto jest stolic¹ Belize?;Belmopan;1;60
+Jakie miasto jest stolic¹ Beninu?;Porto-Novo;1;60
+Jakie miasto jest stolic¹ Bhutanu?;Thimphu;1;60
+Jakie miasto jest stolic¹ Bia³orusi?;Miñsk;1;60
+Jakie miasto jest stolic¹ Boliwii?;Sucre;1;60
+Jakie miasto jest stolic¹ Boœnii i Hercegowiny?;Sarajewo;1;60
+Jakie miasto jest stolic¹ Botswany?;Gaborone;1;60
+Jakie miasto jest stolic¹ Brazylii?;Brasilia;1;60
+Jakie miasto jest stolic¹ Brunei?;Bandar Seri Begawan;1;60
+Jakie miasto jest stolic¹ Bu³garii?;Sofia;1;60
+Jakie miasto jest stolic¹ Burkiny Faso?;Wagadugu;1;60
+Jakie miasto jest stolic¹ Burundi?;Gitega;1;60
+Jakie miasto jest stolic¹ Chile?;Santiago;1;60
+Jakie miasto jest stolic¹ Chiñskiej Republiki Ludowej?;Pekin;1;60
+Jakie miasto jest stolic¹ Chorwacji?;Zagrzeb;1;60
+Jakie miasto jest stolic¹ Cypru?;Nikozja;1;60
+Jakie miasto jest stolic¹ Czadu?;Nd¿amena;1;60
+Jakie miasto jest stolic¹ Czarnogóry?;Podgorica;1;60
+Jakie miasto jest stolic¹ Czech?;Praga;1;60
+Jakie miasto jest stolic¹ Danii?;Kopenhaga;1;60
+Jakie miasto jest stolic¹ Demokratycznej Republiki Konga?;Kinszasa;1;60
+Jakie miasto jest stolic¹ Dominiki?;Roseau;1;60
+Jakie miasto jest stolic¹ Dominikany?;Santo Domingo;1;60
+Jakie miasto jest stolic¹ D¿ibuti?;D¿ibuti;1;60
+Jakie miasto jest stolic¹ Egiptu?;Kair;1;60
+Jakie miasto jest stolic¹ Ekwadoru?;Quito;1;60
+Jakie miasto jest stolic¹ Erytrei?;Asmara;1;60
+Jakie miasto jest stolic¹ Estonii?;Tallinn;1;60
+Jakie miasto jest stolic¹ Eswatini?;Mbabane;1;60
+Jakie miasto jest stolic¹ Etiopii?;Addis Abeba;1;60
+Jakie miasto jest stolic¹ Fid¿i?;Suva;1;60
+Jakie miasto jest stolic¹ Filipin?;Manila;1;60
+Jakie miasto jest stolic¹ Finlandii?;Helsinki;1;60
+Jakie miasto jest stolic¹ Francji?;Pary¿;1;60
+Jakie miasto jest stolic¹ Gabonu?;Libreville;1;60
+Jakie miasto jest stolic¹ Gambii?;Band¿ul;1;60
+Jakie miasto jest stolic¹ Ghany?;Akra;1;60
+Jakie miasto jest stolic¹ Grecji?;Ateny;1;60
+Jakie miasto jest stolic¹ Grenady?;Saint George's;1;60
+Jakie miasto jest stolic¹ Gruzji?;Tbilisi;1;60
+Jakie miasto jest stolic¹ Gujany?;Georgetown;1;60
+Jakie miasto jest stolic¹ Gwatemali?;Gwatemala;1;60
+Jakie miasto jest stolic¹ Gwinei?;Konakry;1;60
+Jakie miasto jest stolic¹ Gwinei Bissau?;Bissau;1;60
+Jakie miasto jest stolic¹ Gwinei Równikowej?;Malabo;1;60
+Jakie miasto jest stolic¹ Haiti?;Port-au-Prince;1;60
+Jakie miasto jest stolic¹ Hiszpanii?;Madryt;1;60
+Jakie miasto jest stolic¹ Holandii?;Amsterdam;1;60
+Jakie miasto jest stolic¹ Hondurasu?;Tegucigalpa;1;60
+Jakie miasto jest stolic¹ Indii?;Nowe Delhi;1;60
+Jakie miasto jest stolic¹ Indonezji?;D¿akarta;1;60
+Jakie miasto jest stolic¹ Iraku?;Bagdad;1;60
+Jakie miasto jest stolic¹ Iranu?;Teheran;1;60
+Jakie miasto jest stolic¹ Irlandii?;Dublin;1;60
+Jakie miasto jest stolic¹ Islandii?;Reykjavik;1;60
+Jakie miasto jest stolic¹ Izraela?;Tel Awiw-Jafa;1;60
+Jakie miasto jest stolic¹ Jamajki?;Kingston;1;60
+Jakie miasto jest stolic¹ Japonii?;Tokio;1;60
+Jakie miasto jest stolic¹ Jemenu?;Sana;1;60
+Jakie miasto jest stolic¹ Jordanii?;Amman;1;60
+Jakie miasto jest stolic¹ Kambod¿y?;Phnom Penh;1;60
+Jakie miasto jest stolic¹ Kamerunu?;Jaunde;1;60
+Jakie miasto jest stolic¹ Kanady?;Ottawa;1;60
+Jakie miasto jest stolic¹ Kataru?;Doha;1;60
+Jakie miasto jest stolic¹ Kazachstanu?;Nur-Su³tan;1;60
+Jakie miasto jest stolic¹ Kenii?;Nairobi;1;60
+Jakie miasto jest stolic¹ Kirgistanu?;Biszkek;1;60
+Jakie miasto jest stolic¹ Kiribati?;Bairiki;1;60
+Jakie miasto jest stolic¹ Kolumbii?;Bogota;1;60
+Jakie miasto jest stolic¹ Komorów?;Moroni;1;60
+Jakie miasto jest stolic¹ Kongo?;Brazzaville;1;60
+Jakie miasto jest stolic¹ Korei Po³udniowej?;Seul;1;60
+Jakie miasto jest stolic¹ Korei Pó³nocnej?;Pjongjang;1;60
+Jakie miasto jest stolic¹ Kosowa?;Prisztina;1;60
+Jakie miasto jest stolic¹ Kostaryki?;San Jose;1;60
+Jakie miasto jest stolic¹ Kuby?;Hawana;1;60
+Jakie miasto jest stolic¹ Kuwejtu?;Kuwejt;1;60
+Jakie miasto jest stolic¹ Laosu?;Wientian;1;60
+Jakie miasto jest stolic¹ Lesotho?;Maseru;1;60
+Jakie miasto jest stolic¹ Libanu?;Bejrut;1;60
+Jakie miasto jest stolic¹ Liberii?;Monrovia;1;60
+Jakie miasto jest stolic¹ Libii?;Trypolis;1;60
+Jakie miasto jest stolic¹ Liechtensteinu?;Vaduz;1;60
+Jakie miasto jest stolic¹ Litwy?;Wilno;1;60
+Jakie miasto jest stolic¹ Luksemburgu?;Luksemburg;1;60
+Jakie miasto jest stolic¹ £otwy?;Ryga;1;60
+Jakie miasto jest stolic¹ Macedonii Pó³nocnej?;Skopje;1;60
+Jakie miasto jest stolic¹ Madagaskaru?;Antananarywa;1;60
+Jakie miasto jest stolic¹ Malawi?;Lilongwe;1;60
+Jakie miasto jest stolic¹ Malediwów?;Male;1;60
+Jakie miasto jest stolic¹ Malezji?;Kuala Lumpur;1;60
+Jakie miasto jest stolic¹ Mali?;Bamako;1;60
+Jakie miasto jest stolic¹ Malty?;Valletta;1;60
+Jakie miasto jest stolic¹ Maroko?;Rabat;1;60
+Jakie miasto jest stolic¹ Mauretanii?;Nawakszut;1;60
+Jakie miasto jest stolic¹ Mauritiusu?;Port Louis;1;60
+Jakie miasto jest stolic¹ Meksyku?;Meksyk;1;60
+Jakie miasto jest stolic¹ Mikronezji?;Palikir;1;60
+Jakie miasto jest stolic¹ Mjanmy?;Naypyidaw;1;60
+Jakie miasto jest stolic¹ Mo³dawii?;Kiszyniów;1;60
+Jakie miasto jest stolic¹ Monako?;Monako;1;60
+Jakie miasto jest stolic¹ Mongolii?;U³an Bator;1;60
+Jakie miasto jest stolic¹ Mozambiku?;Maputo;1;60
+Jakie miasto jest stolic¹ Namibii?;Windhuk;1;60
+Jakie miasto jest stolic¹ Nauru?;Yaren;1;60
+Jakie miasto jest stolic¹ Nepalu?;Katmandu;1;60
+Jakie miasto jest stolic¹ Niemiec?;Berlin;1;60
+Jakie miasto jest stolic¹ Nigru?;Niamey;1;60
+Jakie miasto jest stolic¹ Nigerii?;Abud¿a;1;60
+Jakie miasto jest stolic¹ Nikaragui?;Managua;1;60
+Jakie miasto jest stolic¹ Norwegii?;Oslo;1;60
+Jakie miasto jest stolic¹ Nowej Zelandii?;Wellington;1;60
+Jakie miasto jest stolic¹ Omanu?;Maskat;1;60
+Jakie miasto jest stolic¹ Pakistanu?;Islamabad;1;60
+Jakie miasto jest stolic¹ Palau?;Ngerulmud;1;60
+Jakie miasto jest stolic¹ Panamy?;Panama;1;60
+Jakie miasto jest stolic¹ Papui-Nowej Gwinei?;Port Moresby;1;60
+Jakie miasto jest stolic¹ Paragwaju?;Asuncion;1;60
+Jakie miasto jest stolic¹ Peru?;Lima;1;60
+Jakie miasto jest stolic¹ Polski?;Warszawa;1;60
+Jakie miasto jest stolic¹ Po³udniowej Afryki?;Pretoria;1;60
+Jakie miasto jest stolic¹ Portugalii?;Lizbona;1;60
+Jakie miasto jest stolic¹ Republiki Œrodkowoafrykañskiej?;Bangi;1;60
+Jakie miasto jest stolic¹ Republiki Zielonego Przyl¹dka?;Praia;1;60
+Jakie miasto jest stolic¹ Rosji?;Moskwa;1;60
+Jakie miasto jest stolic¹ Rumunii?;Bukareszt;1;60
+Jakie miasto jest stolic¹ Rwandy?;Kigali;1;60
+Jakie miasto jest stolic¹ Saint Kitts i Nevis?;Basseterre;1;60
+Jakie miasto jest stolic¹ Saint Lucia?;Castries;1;60
+Jakie miasto jest stolic¹ Saint Vincent i Grenadyny?;Kingstown;1;60
+Jakie miasto jest stolic¹ Salwadoru?;San Salvador;1;60
+Jakie miasto jest stolic¹ Samoa?;Apia;1;60
+Jakie miasto jest stolic¹ San Marino?;San Marino;1;60
+Jakie miasto jest stolic¹ Senegalu?;Dakar;1;60
+Jakie miasto jest stolic¹ Serbii?;Belgrad;1;60
+Jakie miasto jest stolic¹ Seszeli?;Victoria;1;60
+Jakie miasto jest stolic¹ Sierra Leone?;Freetown;1;60
+Jakie miasto jest stolic¹ Singapuru?;Singapur;1;60
+Jakie miasto jest stolic¹ S³owacji?;Bratys³awa;1;60
+Jakie miasto jest stolic¹ S³owenii?;Lublana;1;60
+Jakie miasto jest stolic¹ Somalii?;Mogadiszu;1;60
+Jakie miasto jest stolic¹ Sri Lanki?;Sri DŸajawardanapura Kotte;1;60
+Jakie miasto jest stolic¹ Stanów Zjednoczonych?;Waszyngton;1;60
+Jakie miasto jest stolic¹ Sudanu?;Chartum;1;60
+Jakie miasto jest stolic¹ Sudanu Po³udniowego?;D¿uba;1;60
+Jakie miasto jest stolic¹ Surinamu?;Paramaribo;1;60
+Jakie miasto jest stolic¹ Syrii?;Damaszek;1;60
+Jakie miasto jest stolic¹ Szwajcarii?;Berno;1;60
+Jakie miasto jest stolic¹ Szwecji?;Sztokholm;1;60
+Jakie miasto jest stolic¹ Tad¿ykistanu?;Duszanbe;1;60
+Jakie miasto jest stolic¹ Tajlandii?;Bangkok;1;60
+Jakie miasto jest stolic¹ Tanzanii?;Dodoma;1;60
+Jakie miasto jest stolic¹ Timoru Wschodniego?;Dili;1;60
+Jakie miasto jest stolic¹ Togo?;Lome;1;60
+Jakie miasto jest stolic¹ Tonga?;Nuku'alofa;1;60
+Jakie miasto jest stolic¹ Trynidadu i Tobago?;Port-of-Spain;1;60
+Jakie miasto jest stolic¹ Tunezji?;Tunis;1;60
+Jakie miasto jest stolic¹ Turcji?;Ankara;1;60
+Jakie miasto jest stolic¹ Turkmenistanu?;Aszchabad;1;60
+Jakie miasto jest stolic¹ Tuvalu?;Vaiaku;1;60
+Jakie miasto jest stolic¹ Ugandy?;Kampala;1;60
+Jakie miasto jest stolic¹ Ukrainy?;Kijów;1;60
+Jakie miasto jest stolic¹ Urugwaju?;Montevideo;1;60
+Jakie miasto jest stolic¹ Uzbekistanu?;Taszkent;1;60
+Jakie miasto jest stolic¹ Vanuatu?;Port Vila;1;60
+Jakie miasto jest stolic¹ Watykanu?;Watykan;1;60
+Jakie miasto jest stolic¹ Wenezueli?;Caracas;1;60
+Jakie miasto jest stolic¹ Wêgier?;Budapeszt;1;60
+Jakie miasto jest stolic¹ Wielkiej Brytanii?;Londyn;1;60
+Jakie miasto jest stolic¹ Wietnamu?;Hanoi;1;60
+Jakie miasto jest stolic¹ W³och?;Rzym;1;60
+Jakie miasto jest stolic¹ Wybrze¿a Koœci S³oniowej?;Jamusukro;1;60
+Jakie miasto jest stolic¹ Wysp Marshalla?;Majuro;1;60
+Jakie miasto jest stolic¹ Wysp Salomona?;Honiara;1;60
+Jakie miasto jest stolic¹ Wysp Œwiêtego Tomasza i Ksi¹¿êca?;Sao Tome;1;60
+Jakie miasto jest stolic¹ Zambii?;Lusaka;1;60
+Jakie miasto jest stolic¹ Zimbabwe?;Harare;1;60
+Jakie miasto jest stolic¹ Zjednoczonych Emiratów Arabskich?;Abu Zabi;1;60

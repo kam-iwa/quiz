@@ -1,0 +1,47 @@
+CLOSED
+Ten quiz sprawdzi twoj¹ wiedzê o Polsce.;Aby udzieliæ odpowiedzi na pytania, wpisz numer wybranej odpowiedzi.
+Kto by³ pierwszym w³adc¹ Polski?;Kazimierz Wielki,Mieszko I,Lech Wa³êsa,Boles³aw Chrobry;2;1;30
+W którym roku by³ chrzest Polski?;1024,1410,966,1989;3;1;30
+Z kim walczy³y wojska polskie i litewskie pod Grunwaldem?;z Krzy¿akami,z Turcj¹,z III Rzesz¹,z ZSRR;1;1;30
+Gdzie mieszkali Polscy królowie?;Na Zamku w Lublinie,W Pa³acu Prezydenckim w Warszawie,w Biskupinie,Na Wawelu w Krakowie;4;1;30
+Gdzie znajduje siê Koœció³ Mariacki,Wawel,Sukiennice?;W Bydgoszczy,W Warszawie,W Lublinie,W £odzi,W Krakowie,W Gdañsku,We Wroc³awiu;5;1.2;60
+W którym roku zosta³a og³oszona Konstytucja 3 Maja?;1790,1791;2;1.5;15
+Ile by³o rozbiorów Polski?;3,1,2;1;2;10
+Który kraj nie uczestniczy³ w rozbiorach Polski?;Rosja,Turcja,Prusy,Austria;2;1;60
+Ile lat Polska by³a pod zaborami?;132,213,123,321;3;1.3;55
+W którym roku Polska odzyska³a niepodleg³oœæ?;Polska nigdy nie by³a niepodleg³a,1918,1989,2004;2;0.7;120
+Co siê wydarzy³o 1 wrzeœnia 1939 roku?;Urodzi³ siê Lech Wa³êsa,Rozpoczê³a siê II wojna œwiatowa,Rozpoczê³a siê I wojna œwiatowa,Karol Wojty³a zosta³ wybrany papie¿em;2;0.88;93
+Kiedy wybuch³o Powstanie Warszawskie?;1 sierpnia 1945,1 sierpnia 1943,1 sierpnia 1944,1 sierpnia 1939;3;1.2;24
+Co to jest "Mazurek D¹browskiego"?;Hymn Polski,Hymn Bia³orusi,Hymn Litwy;1;0.4;180
+Jak siê zaczyna polski hymn narodowy?;Jeszcze Polska nie umar³a...,Jeszcze Polska nie zginê³a...;2;3.0;20
+Kto napisa³ tekst polskiego hymnu narodowego?;Adam Mickiewicz,Juliusz S³owacki,Józef Wybicki,Fryderyk Chopin,Cyprian Kamil Norwid;3;0.995;29.5
+Jak wygl¹da polska flaga?;Jest bia³o-czerwona,Jest ca³a czerwona,Jest niebieska z 12 ¿ó³tymi gwiazdami na œrodku;1;0.5;45
+Jak wygl¹da polskie god³o?;Orze³ bia³y w koronie na czerwonym tle,Orze³ czarny na ¿ó³tym tle;Orze³ bia³y na czerwonym tle;1;5.0;15
+Kiedy wprowadzono stan wojenny w Polsce?;13 grudnia 1981,4 czerwca 1989;1;1;60
+Gdzie le¿y Polska?;W Azji,W Europie Œrodkowej;2;3;20
+Jak nazywa³a siê pierwsza stolica Polski?;Biskupin,P³ock,Lublin,Bia³ystok,Poznañ,Kraków,Gniezno,Warszawa,£ódŸ;7;0.98;72
+Jakie miasto jest teraz polsk¹ stolic¹?;Warszawa;Berlin;Lublin;Polska nie posiada oficjalnej stolicy,Tam gdzie w danej chwili przebywa prezydent,Tel-Awiw,Kraków,Guciów k. Zwierzyñca;1;0.01;320
+Kto wed³ug legendy za³o¿y³ Warszawê?;Wars i Sawa,Ten co widzia³ wojnê (War Saw);1;3.14;120
+Która odpowiedŸ nie zawiera tytu³u polskiej legendy?;'O Lechu Czechu i Rusie','Osmoku wawelskim','O dwóch takich co ukradli Ksiê¿yc','O Kraku i Wandzie';3;0.57;70
+Ilu mieszkañców liczy obecnie Polska?;Oko³o 1500,38 milionów,7 miliardów,Nie wiem;2;5;30
+Jak nazywa siê najd³u¿sza rzeka w Polsce?;Odra,Bystrzyca,Wis³a,Bug,Wieprz,Nysa,Noteæ,W Polsce nie ma ¿adnych rzek;3;1;60
+Jak nazywa siê najg³êbsze polskie jezioro?;Zalew Zemborzycki,Hañcza;2;1.35;16
+Do jakiego morza wpadaj¹ polskie rzeki?;Do Morza Ba³tyckiego,Do Oceanu Spokojnego,Polska nie ma dostêpu do morza;1;1;60
+Jak nazywa siê najstarszy polski uniwersytet?;Uniwersytet Marii Curie Sk³odowskiej,Uniwersytet Jagielloñski,Pañstwowa Wy¿sza Szko³a Zawodowa w Che³mie;2;0.2;120
+Jak nazywa siê najs³ynniejsze polskie sanktuarium?;Watykan,Jasna Góra;2;1.0043521;82.53
+W jakim mieœcie znajduje siê Jasna Góra?;W Czêstochowie,W Krakowie,W Zamoœciu,W Bydgoszczy;1;1;59.9
+Kim nie by³ Lech Wa³êsa?;Przywódc¹ i za³o¿ycielem 'Solidarnoœci',laureatem Pokojowej Nagrody Nobla,papie¿em,prezydentem Polski;3;1;48
+Jak nazywaj¹ siê najwy¿sze polskie góry?;Tatry,Góry Œwiêtokrzyskie,Alpy,Sudety,Himalaje;1;1;60
+Jak nazywaj¹ siê ludzie mieszkaj¹cy w górach?;Cepry,Górale,Gorole;2;2;72
+Jak nazywaj¹ siê ludzie mieszkaj¹cy na Œl¹sku?;Niemcy,Œl¹zacy;2;1;60
+Kim nie by³ Miko³aj Kopernik?;astronomem,kobiet¹,matematykiem,lekarzem;2;1;60
+Gdzie urodzi³ siê Miko³aj Kopernik?;W Toruniu,W Bydgoszczy;1;1.12;99.99
+Kim by³ Karol Wojty³a?Papie¿em,Prezydentem;1;1.001;61
+Gdzie urodzi³ siê Karol Wojty³a?;W Katowicach,W Wadowicach;2;1;60
+Kim by³ Fryderyk Chopin?;Pianist¹,Chemikiem;1;1;60
+Gdzie urodzi³ siê Fryderyk Chopin?;W ¯elazowej Woli,W Stalowej Woli;1;1;60
+Kim nie by³a Maria Sk³odowska-Curie?;fizykiem,poet¹,chemikiem,kobiet¹;2;1.113;61.111
+Kto napisa³ "Trylogiê"?;Pan Tadeusz,Henryk Sienkiewicz,Stanis³aw Ignacy Mickiewicz;2;1;60
+W jakiej skali mierzy siê temperaturê w Polsce?;W stopniach Celsjusza,W promilach,W dolarach,W kilometrach,W stopniach Fahrenheita;1;1;60
+Jaki jest jêzyk urzêdowy w Polsce?;polski,hebrajski,angielski,rumuñski,niemiecki,rosyjski,œl¹ski,czechos³owacki;1;1;60
+W którym roku Polska wesz³a do Unii Europejskiej?;2000,2001,2002,2003,20004,2004,2005,2006,2008,2040;6;0.5;120
